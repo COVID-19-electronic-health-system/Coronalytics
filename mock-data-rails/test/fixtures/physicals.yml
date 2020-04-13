@@ -1,0 +1,27 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fever: MyString
+  chills: MyString
+  breath_shortnes: MyString
+  fatigue: MyString
+  dry_cough: MyString
+  sore_throat: MyString
+  blu_lips_face: MyString
+  gastrointestinnal: MyString
+  headach: MyString
+  temperature: 1.5
+  observation: one
+
+two:
+  fever: MyString
+  chills: MyString
+  breath_shortnes: MyString
+  fatigue: MyString
+  dry_cough: MyString
+  sore_throat: MyString
+  blu_lips_face: MyString
+  gastrointestinnal: MyString
+  headach: MyString
+  temperature: 1.5
+  observation: two
