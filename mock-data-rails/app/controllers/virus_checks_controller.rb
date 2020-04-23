@@ -1,0 +1,2 @@
+class VirusChecksController < ApplicationController
+end
