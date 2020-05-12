@@ -18,10 +18,10 @@ end
 def generate_observations(entries)
     results = ['Minimal', 'Moderate', 'Severe', nil]
     confirmed = [true, false]
+
     User.all.each { |user|
 
         user.virus_checks.create(coronavirus: confirmed.sample)
-
         entries.times do |i|
             fever = results.sample
             case fever
