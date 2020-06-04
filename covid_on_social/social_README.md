@@ -12,4 +12,4 @@ The aim of covid_on_social is to gain insights into the discussion about COVID-1
 
 - any other social media or chat platforms you can think of, please add them to the list!
 
-In terms of developer accounts for using these platforms' APIs, not sure whether you wanted to apply for one separately for the CoronaTracker org? If so I can get that done
+In terms of developer accounts for using these platforms' APIs, not sure whether you wanted to apply for one separately for the CoronaTracker org? If so I can get that done (kec1510).
