@@ -13,7 +13,31 @@ The data for the NLP model will be used to mock users' comments on the app. The 
 
 ## Possible sources for scraping
 
-- twitter (i.e. using the Twitter API search endpoint with keywords or hashtags)
+#### Twitter
+
+- COVID-19 TweetID dataset: https://github.com/echen102/COVID-19-TweetIDs
+
+- Health topics from Twitter (non-covid): https://figshare.com/articles/Discovering_health_topics_in_social_media_using_topic_models/1007712
+
+#### Facebook
+
+- API of epidemiological data which includes Facebook’s survey of self-reported COVID symptoms: https://cmu-delphi.github.io/delphi-epidata/api/covidcast.html
+
+##### Facebook Groups (covid and non-covid)
+
+- Anxiety/panic disorders, PTSD, OCD, health anxiety, stress, depression. https://www.facebook.com/groups/164523694481528/?ref=br_rs
+
+- KIDNEY FAILURE Symptoms, Causes & Treatments https://www.facebook.com/groups/2501744840149737/?ref=br_rs
+
+- Causes,symptoms and treatment of diseases. https://www.facebook.com/groups/446950865479954/?ref=br_rs
+
+- COVID-19 information and discussion group https://www.facebook.com/groups/3050168458361195/?ref=br_rs
+
+- COVID-19 Symptoms, Experiences, Questions, Remedies, & Sharing https://www.facebook.com/groups/636713580226698/?ref=br_rs
+
+- Coronavirus Experiences and Recoveries https://www.facebook.com/groups/3450478258300773/?ref=br_rs
+
+#### Other
 
 - subreddits dedicated to coronavirus symptom discussion (if these actually exist) or for patients who have other health conditions separate from COVID
 
