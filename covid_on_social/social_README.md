@@ -41,6 +41,6 @@ The data for the NLP model will be used to mock users' comments on the app. The 
 
 - subreddits dedicated to coronavirus symptom discussion (if these actually exist) or for patients who have other health conditions separate from COVID
 
-- instagram/facebook communities for patients with coronavirus or non-coronavirus health conditions
+- other instagram/facebook communities for patients with coronavirus or non-coronavirus health conditions
 
 - any other social media or chat platforms you can think of, please add them to the list!
